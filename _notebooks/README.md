@@ -1,12 +1,11 @@
 # Assignment09- Practice token and word analysis from Jupyter
 
 [`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
-You must save your notebook with the naming convention `YYYY-MM-DD-*.ipynb`.  Examples of valid filenames are:
+## This file will include:
+1. Tokenize the words and remove stopwords
+2. Find the top 20 most frequent words in the play
+3. Comment on whether these words give an accurate sense of the play
 
-```shell
-2020-01-28-My-First-Post.ipynb
-2012-09-12-how-to-write-a-blog.ipynb
-```
 
 If you fail to name your file correctly, `fastpages` will automatically attempt to fix the problem by prepending the last modified date of your notebook. However, it is recommended that you name your files properly yourself for more transparency.
 
