@@ -1,7 +1,6 @@
-# Auto-convert Jupyter Notebooks To Posts
+# Assignment09- Practice token and word analysis from Jupyter
 
-[`fastpages`](https://github.com/fastai/fastpages) will automatically convert [Jupyter](https://jupyter.org/) Notebooks saved into this directory as blog posts!
-
+[`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
 You must save your notebook with the naming convention `YYYY-MM-DD-*.ipynb`.  Examples of valid filenames are:
 
 ```shell
